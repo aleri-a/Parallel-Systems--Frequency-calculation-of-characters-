@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\D particija\SANJA\VII semestar- Sweden\Parallel\parallel_project\parallel_project\Source.cpp(161,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  parallel_project.vcxproj -> D:\D particija\SANJA\VII semestar- Sweden\Parallel\parallel_project\Debug\parallel_project.exe
